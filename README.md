@@ -11,4 +11,6 @@ yarn dev
 
 ## Tools
 
-[check this](https://stackoverflow.com/questions/65763452/reveal-js-referenceerror-navigator-is-not-defined-on-fresh-install)
+TODO
+- [ ] [check this stackoverflow](https://stackoverflow.com/questions/65763452/reveal-js-referenceerror-navigator-is-not-defined-on-fresh-install) thread
+- [ ] explore https://github.com/vercel/next.js/tree/canary/examples/blog-starter
